@@ -1,5 +1,4 @@
 aiogram
 cryptography
 python-gettext
-sqlite3
 uuid

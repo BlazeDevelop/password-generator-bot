@@ -1,6 +1,6 @@
 aiogram
 cryptography
-random
+python-gettext
 sqlite3
 uuid
 string

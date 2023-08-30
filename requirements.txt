@@ -1,0 +1,6 @@
+aiogram
+cryptography
+random
+sqlite3
+uuid
+string

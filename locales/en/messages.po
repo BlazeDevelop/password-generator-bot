@@ -1,0 +1,12 @@
+msgid ""
+msgstr ""
+"Language: en\n"
+
+msgid "Enter your Telegram bot token:"
+msgstr "Enter your Telegram bot token:"
+
+msgid "Enter your developer chat ID:"
+msgstr "Enter your developer chat ID:"
+
+msgid "Bot setup completed and bot started!"
+msgstr "Bot setup completed and bot started!"

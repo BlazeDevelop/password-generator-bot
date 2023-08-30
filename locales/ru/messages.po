@@ -1,0 +1,13 @@
+msgid ""
+msgstr ""
+"Language: ru\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Enter your Telegram bot token: "
+msgstr "Введите токен вашего бота в Telegram: "
+
+msgid "Enter your developer chat ID: "
+msgstr "Введите ID вашего чата с разработчиком: "
+
+msgid "Bot setup completed and bot started!"
+msgstr "Настройка бота завершена, бот запущен!"

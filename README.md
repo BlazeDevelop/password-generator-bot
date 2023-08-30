@@ -13,7 +13,7 @@ This is a Telegram bot that generates random passwords and allows users to save 
 
 ## Usage
 
-1. Clone the repository. git clone https://github.com/yourusername/password-generator-bot
+1. Clone the repository. git clone https://github.com/BlazeDevelop/password-generator-bot
 2. Go to it. cd ~/password-generator-bot
 3. Install the required packages using `pip install -r requirements.txt`.
 4. Run the `setup.py` script and follow the instructions to set up your Telegram bot.
@@ -41,7 +41,7 @@ This project is written "on knees" and may require revision from more experience
 
 ## Использование
 
-1. Клонировать репозиторий. git clone https://github.com/yourusername/password-generator-bot
+1. Клонировать репозиторий. git clone https://github.com/BlazeDevelop/password-generator-bot
 2. Перейдите к нему. cd password-generator-bot
 3. Установите необходимые пакеты с помощью команды `pip install -r requirements.txt`.
 4. Запустите скрипт `setup.py` и, следуя инструкциям, настройте своего Telegram-бота.
